@@ -11,7 +11,7 @@ AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습�
 ---
 
 ### 🛠 Tech Stack
-<hr style="border:1px solid #ccc; margin:8px 0;">
+<hr style="border:0.5px solid #ccc; margin:8px 0;">
 #### 🧩 Language
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
