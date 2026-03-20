@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 안녕하세요 머신러닝/딥러닝 엔지니어 [Your Name]
 
-<!--
-**Bokill-commits/Bokill-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 데이터 기반 문제 해결에 관심이 있습니다
+- 머신러닝 및 딥러닝 프로젝트를 진행하고 있습니다
+
+---
+
+## 🛠 Tech Stack
+- Python, Pandas, NumPy
+- Scikit-learn, TensorFlow, PyTorch
+- Matplotlib, Seaborn
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Customer Churn Prediction
+- 고객 이탈 예측 모델 개발
+- Accuracy 87% 달성
+- [Repo](링크)
+
+### 📌 Stock Price Prediction
+- LSTM 기반 주가 예측 모델
+- 시계열 데이터 분석
+- [Repo](링크)
+
+---
+
+## 📫 Contact
+- Email: your@email.com
