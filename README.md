@@ -1,10 +1,6 @@
-## 안녕하세요 머신러닝 엔지니어를 목표로 하는 주니어 개발자입니다
-
-AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습니다.
-
----
-
 ## 🧑‍💻 About Me
+- 안녕하세요 머신러닝 엔지니어를 목표로 하는 주니어 개발자입니다
+- AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습니다
 - 데이터 기반 문제 해결에 관심이 있습니다
 - 머신러닝 및 딥러닝 프로젝트를 진행하고 있습니다
 
