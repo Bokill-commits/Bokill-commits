@@ -49,4 +49,4 @@ AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습�
 ---
 
 ## 📫 Contact
-- Email: rkdeorb444@gmail.com
+- Email : rkdeorb444@gmail.com
