@@ -26,6 +26,11 @@ AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습�
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?logoColor=white)
 
+#### ⚙️ Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
@@ -35,7 +40,7 @@ AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습�
 - Accuracy 87% 달성
 - [![Repo](https://img.shields.io/badge/repo-Project__H-blue?logo=github)](https://github.com/Bokill-commits/Project_H)
 
-### 📌 
+### 📌 |
 - LSTM 기반 주가 예측 모델
 - 시계열 데이터 분석
 - [Repo](링크)
