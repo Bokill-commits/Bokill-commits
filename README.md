@@ -42,17 +42,17 @@
 ### 📌 Project_T | 탁송대리기사 AI매칭시스템
 [![Repo](https://img.shields.io/badge/repo-Project__T-green?logo=github)]()<br>
 탁송차량과 대리기사를 AI기술로 매칭하여 최적의 경로 추천하는 시스템 개발 프로젝트입니다.
-> ㅁㄴㅇㄹ<br>
-> ㅁㄴㅇ<br>
-> ㅁㄴㅇㄹ
+> 매인 매칭시스템 설계<br>
+> 리뷰텍스트 데이터 형태소 분석 및 학습<br>
+> 모델 개발 후 기능 검증
 ##
 
 ### 📌 Project_M | 멀웨어위험감지 확장프로그램
 [![Repo](https://img.shields.io/badge/repo-Project__M-red?logo=github)]()<br>
 Chrome DevTools 기반 실시간 악성코드 탐지 확장프로그램 개발 프로젝트입니다.
-> asdf<br>
-> ㄴㅇㄹ<br>
-> ㅂㅈㄷ
+> Chrome DevTools 기반 트래픽 수집<br>
+> 실시간 스캔 로직 구현<br>
+> 임계값 초과 시 사용자 경고 알림 구현
 ---
 
 ## 📫 Contact<br>
