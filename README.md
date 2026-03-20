@@ -27,9 +27,9 @@ AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습�
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?logoColor=white)
 
 #### ⚙️ Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
