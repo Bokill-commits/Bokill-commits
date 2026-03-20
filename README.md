@@ -32,7 +32,7 @@
 ## 🚀 Featured Projects
 
 ### 📌 Project_H | 객체(사람)탐지 행동감지 딥러닝모델
-* [![Repo](https://img.shields.io/badge/repo-Project__H-blue?logo=github)](https://github.com/Bokill-commits/Project_H)
+[![Repo](https://img.shields.io/badge/repo-Project__H-blue?logo=github)](https://github.com/Bokill-commits/Project_H)
 - 
 -
 
