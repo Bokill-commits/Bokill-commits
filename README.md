@@ -12,16 +12,19 @@ AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습�
 
 ### 🛠 Tech Stack
 #### 🧩 Language
-- Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 📊 Data Analysis
-- Pandas, NumPy
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 #### 🤖 Machine Learning / Deep Learning
-- Scikit-learn, TensorFlow
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
 #### 📈 Visualization
-- Matplotlib, Seaborn
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
 
 ---
 
@@ -30,7 +33,7 @@ AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습�
 ### 📌 Project_H
 - 객체(사람)탐지 행동감지 모델
 - Accuracy 87% 달성
-- [Repo]([링크](https://github.com/Bokill-commits/Project_H))
+- [![Repo](https://img.shields.io/badge/GitHub-Project_H-181717?style=for-the-badge&logo=github)](https://github.com/Bokill-commits/Project_H)
 
 ### 📌 Stock Price Prediction
 - LSTM 기반 주가 예측 모델
