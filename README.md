@@ -34,8 +34,8 @@
 ### 📌 Project_H | 객체(사람)탐지 행동감지 딥러닝모델
 [![Repo](https://img.shields.io/badge/repo-Project__H-blue?logo=github)](https://github.com/Bokill-commits/Project_H)<br>
 영상을 분석하여 객체를 탐지하고 특정 행동을 감지하는 모델 개발 프로젝트입니다.
-> 영상자료 수집 후 데이터 전처리
-> LSTM 기반의 모델 설계
+> 영상자료 수집 후 데이터 전처리<br>
+> LSTM 기반의 모델 설계<br>
 > 학습 모델 테스트와 결과 확인
 
 ### 📌 Project_T | 탁송대리기사 AI매칭시스템
