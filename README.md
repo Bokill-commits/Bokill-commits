@@ -33,7 +33,7 @@ AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습�
 ### 📌 Project_H
 - 객체(사람)탐지 행동감지 모델
 - Accuracy 87% 달성
-- [![Repo](https://img.shields.io/badge/GitHub-Project_H-181717?style=for-the-badge&logo=github)](https://github.com/Bokill-commits/Project_H)
+- [![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bokill-commits/Project_H)
 
 ### 📌 Stock Price Prediction
 - LSTM 기반 주가 예측 모델
