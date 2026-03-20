@@ -12,7 +12,7 @@ AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습�
 
 ### 🛠 Tech Stack
 #### 🧩 Language
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
 #### 📊 Data Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -30,12 +30,12 @@ AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습�
 
 ## 🚀 Featured Projects
 
-### 📌 Project_H
-- 객체(사람)탐지 행동감지 모델
+### 📌 Project_H | 객체(사람)탐지 행동감지 딥러닝 모델
+-
 - Accuracy 87% 달성
-- [![Repo](https://img.shields.io/badge/github-Project_H-blue?logo=repo)](https://github.com/Bokill-commits/Project_H)
+- [![Repo](https://img.shields.io/badge/repo-Project_H-blue?logo=github)](https://github.com/Bokill-commits/Project_H)
 
-### 📌 Stock Price Prediction
+### 📌 
 - LSTM 기반 주가 예측 모델
 - 시계열 데이터 분석
 - [Repo](링크)
