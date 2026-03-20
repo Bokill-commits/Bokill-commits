@@ -32,19 +32,19 @@
 ## 🚀 Featured Projects
 
 ### 📌 Project_H | 객체(사람)탐지 행동감지 딥러닝모델
-[![Repo](https://img.shields.io/badge/repo-Project__H-blue?logo=github)](https://github.com/Bokill-commits/Project_H)
+- [![Repo](https://img.shields.io/badge/repo-Project__H-blue?logo=github)](https://github.com/Bokill-commits/Project_H)
 - 
 -
 
 ### 📌 Project_T | 탁송대리기사 AI매칭시스템
-- 
-- 
 - [![Repo](https://img.shields.io/badge/repo-Project__T-orange?logo=github)]()
+- 
+- 
 
 ### 📌 Project_M | 멀웨어위험감지 확장프로그램
-- 
-- 
 - [![Repo](https://img.shields.io/badge/repo-Project__M-red?logo=github)]()
+- 
+- 
 
 ---
 
