@@ -12,7 +12,7 @@ AI / Machine Learning / Data Analysis Engineer를 목표로 공부하고 있습�
 
 ### 🛠 Tech Stack
 #### 🧩 Language
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 #### 📊 Data Analysis
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
