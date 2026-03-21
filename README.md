@@ -40,7 +40,7 @@
 ##
 
 ### 📌 Project_T | 탁송대리기사 AI매칭시스템
-[![Repo](https://img.shields.io/badge/repo-Project__T-green?logo=github)]()<br>
+[![Repo](https://img.shields.io/badge/repo-Project__T-green?logo=github)](https://github.com/Bokill-commits/Project_T)<br>
 탁송차량과 대리기사를 AI기술로 매칭하여 최적의 경로를 추천하는 시스템 개발 프로젝트입니다.
 > 매인 매칭시스템 설계<br>
 > 리뷰텍스트 데이터 형태소 분석 및 학습<br>
