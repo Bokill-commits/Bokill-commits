@@ -59,10 +59,11 @@ Chrome DevTools 기반 실시간 악성코드 탐지 확장프로그램 개발 �
 <details>
   <summary><b>&nbsp;&nbsp;📂 Side Projects</b></summary>
   
-  #### 🧪 Project_YD
+  #### 🧪 Project_YD | 비디오 영상 다운로드 로직 구현
   [![Repo](https://img.shields.io/badge/repo-Project__YD-red?logo=github)](https://github.com/Bokill-commits/Project_YD)<br>
-  
-  - Project_YD
+  학습 용도로 비디오 영상을 다운로드할 수 있게 로직을 구현한 프로젝트입니다.
+  > Google Colab 에서 사용하여 
+  > ㄴㅇ
 </details>
 
 ---
