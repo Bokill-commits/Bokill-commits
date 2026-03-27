@@ -56,7 +56,7 @@ Chrome DevTools 기반 실시간 악성코드 탐지 확장프로그램 개발 �
 ---
 
 <details>
-  <summary>🧪 Side Projects</summary>
+  ### <summary>🧪 Side Projects</summary>
   - Project YD
 </details>
 
