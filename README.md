@@ -54,10 +54,12 @@ Chrome DevTools 기반 실시간 악성코드 탐지 확장프로그램 개발 �
 > 실시간 스캔 로직 구현<br>
 > 임계값 초과 시 사용자 경고 알림 구현
 
+---
+
 <details>
   <summary><h3>🧪 Side Projects</h3></summary>
-  
-  - Project YD
+  [![Repo](https://img.shields.io/badge/repo-Project__YD-red?logo=github)](https://github.com/Bokill-commits/Project_YD)<br>
+  - Project_YD
 </details>
 
 ---
