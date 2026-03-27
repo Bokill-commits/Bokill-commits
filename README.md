@@ -57,7 +57,7 @@ Chrome DevTools 기반 실시간 악성코드 탐지 확장프로그램 개발 �
 ---
 
 <details>
-  <summary><h3>&nbsp;&nbsp;📂 Side Projects</h3></summary>
+  <summary><b>&nbsp;&nbsp;📂 Side Projects</b></summary>
   
   #### 🧪 Project_YD
   [![Repo](https://img.shields.io/badge/repo-Project__YD-red?logo=github)](https://github.com/Bokill-commits/Project_YD)<br>
