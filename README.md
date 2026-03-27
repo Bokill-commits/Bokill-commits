@@ -48,11 +48,15 @@
 ##
 
 ### 📌 Project_M | 멀웨어위험감지 확장프로그램
-[![Repo](https://img.shields.io/badge/repo-Project__M-red?logo=github)](https://github.com/Bokill-commits/Project_M)<br>
+[![Repo](https://img.shields.io/badge/repo-Project__M-orange?logo=github)](https://github.com/Bokill-commits/Project_M)<br>
 Chrome DevTools 기반 실시간 악성코드 탐지 확장프로그램 개발 프로젝트입니다.
 > Chrome DevTools 기반 트래픽 수집<br>
 > 실시간 스캔 로직 구현<br>
 > 임계값 초과 시 사용자 경고 알림 구현
+---
+
+### 🧪 Side Projects
+
 ---
 
 ## 📫 Contact<br>
