@@ -61,7 +61,7 @@ Chrome DevTools 기반 실시간 악성코드 탐지 확장프로그램 개발 �
   
   #### 🧪 Project_YD | 영상 데이터 수집 자동화 스크립트
   [![Repo](https://img.shields.io/badge/repo-Project__YD-red?logo=github)](https://github.com/Bokill-commits/Project_YD)<br>
-  학습 및 개인적인 용도의 영상 데이터 수집 자동화 로직을 구현한 프로젝트입니다.
+  학습 및 개인적인 용도의 영상 데이터 수집 자동화 스크립트를 구현한 프로젝트입니다.
   > Google Colab 에서 사용하여<br>
   > ㄴㅇ
 </details>
