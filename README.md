@@ -58,6 +58,8 @@ Chrome DevTools 기반 실시간 악성코드 탐지 확장프로그램 개발 �
 
 <details>
   <summary><b>&nbsp;&nbsp;📂 Side Projects</b></summary>
+
+  ##
   
   #### 🧪 Project_YD | 영상 데이터 수집 자동화 도구
   [![Repo](https://img.shields.io/badge/repo-Project__YD-red?logo=github)](https://github.com/Bokill-commits/Project_YD)<br>
